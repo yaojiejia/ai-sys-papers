@@ -64,6 +64,3 @@ PDFs are checked in alongside each entry.
 
 ---
 
-**Suggested path:** Orca → vLLM → Sarathi-Serve → DistServe → Mooncake.
-
-Orca is from [USENIX OSDI 2022](https://www.usenix.org/conference/osdi22/presentation/yu); the rest link to arXiv.
